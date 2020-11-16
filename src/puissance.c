@@ -6,6 +6,7 @@ int main() {
     int b = 8;
     int result = a;
 
+    //On mulitiplie a par lui même b fois.
     for(int i=1; i < b; i++ ){ 
         result *= a;
     }
